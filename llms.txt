@@ -17,3 +17,7 @@ This data is freely available for educational and research purposes.
 ## Contact
 
 For data corrections or additions, refer to the domain contact information.
+
+## Freshness
+
+Last updated: 2026-09-04 (first published 2026-06-03)
